@@ -15,12 +15,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "MH MODS OFC"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
+      "value": " https://i.imgur.com/UM7ckOJ.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -112,15 +112,15 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": "pUBLIC"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "SUBSCRIBE MH MODS OFC",
       "required": false 
     },
     "PACK_AUTHER": {
-      "description": "Put Sticker Author_Name.",
+      "description": "BY CH HASEEB.",
       "value": "",
       "required": false 
     }
