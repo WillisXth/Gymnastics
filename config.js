@@ -16,9 +16,9 @@ global.DATABASE_URI=process.env.DATABASE_URL || ""
 global.scan = "https://suhail-md-vtsf.onrender.com/";
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg" ; // SET LOGO FOR IMAGE 
+global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/HwhBcKPN1AWKuImlq5kG3X";
+global.website=process.env.GURL || "https://chat.whatsapp.com/HwhBcKPN1AWKuImlq5kG3X" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.imgur.com/UM7ckOJ.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
