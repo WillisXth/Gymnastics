@@ -27,20 +27,19 @@ global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "92340
 global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "923184474176";
 
 
- 
-
-
 
 
 //========================= [ BOT SETTINGS ] =========================\\
 global.flush = process.env.FLUSH || "true"; // Make it "true" if bot not responed
-global.warncount = process.env.WARN_COUNT || 3,
-global.disablepm = process.env.DISABLE_PM || "false",
-global.userImages = process.env.USER_IMAGES|| "text",
-global.style = process.env.STYLE || "5",  // put '1' to "5" here to check bot styles
-global.waPresence = process.env.WAPRESENCE  ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
-global.MsgsInLog = process.env.MSGS_IN_LOG || "false", // "true"  to see messages , "log" to open logs , "false" to hide logs messages
- 
+global.style = process.env.STYLE   || "5",  // put '1' to "5" here to check bot styles
+global.flush = process.env.FLUSH   || "false"; // Make it "true" if bot not responed
+global.gdbye = process.env.GOODBYE || "false"; 
+global.wlcm  = process.env.WELCOME || "true";  // Make it "false" for disable WELCOME 
+
+global.MsgsInLog = process.env.MSGS_IN_LOG|| "false", // "true"  to see messages , "log" to open logs , "false" to hide logs messages
+global.userImages= process.env.USER_IMAGES|| "text",
+global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
+
 
 //========================= [ AUTO READ MSGS & CMDS ] =========================\\
 global.readcmds = process.env.READ_COMMAND || "false"
