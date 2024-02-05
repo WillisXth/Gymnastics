@@ -7,13 +7,9 @@
 3.  ***Click [`FORK`](https://github.com/SuhailTechInfo/Suhail-Md/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-6.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy.html)***
+6.  ***Deploy on [`HEROKU`](https://heroku.com/deploy?template=https://github.com/abdullahjuttofc/Suhail-Md)***
 
-<h2 align="center">  NOTICE
+<h2 align="center">  deploy
 </h2>
    
-## 
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
-- [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Suhail-Md)
+  https://heroku.com/deploy?template=https://github.com/abdullahjuttofc/Suhail-Md
