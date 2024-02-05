@@ -59,7 +59,7 @@
       "value": "false"
     }, 
     "HEROKU_API_KEY": {
-      "description": "Put Your Heroku Api Key Here",
+      "description": "de6a5ea7-3d69-49fd-89bf-52e43a688341",
       "value": "",
       "required" :true 
     },   
@@ -99,7 +99,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "923"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
