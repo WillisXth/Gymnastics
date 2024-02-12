@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "CH HASEEB",
       "required" :true
     },   
     "BOT_NAME": {
@@ -31,7 +31,7 @@
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": " https://i.imgur.com/UM7ckOJ.jpg"
+      "value": "https://telegra.ph/file/a03584abe46e4813cc352.jpg", 
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -59,8 +59,8 @@
       "value": "false"
     }, 
     "HEROKU_API_KEY": {
-      "description": "de6a5ea7-3d69-49fd-89bf-52e43a688341",
-      "value": "",
+      "description": 
+      "value":  "de6a5ea7-3d69-49fd-89bf-52e43a688341",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
