@@ -9,29 +9,30 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "CH HASEEB",
+      "value": "Suhail Ser",
       "required" :true
     },   
-    "BOT_NAME": {
-      "description": " NAME FOR BOT",
-      "required" :false,    
-      "value": "MH MODS OFC"
-    }, 
-       "WELCOME": {
-      "description": "put 'false' if you don't want to enable WELCOME ",
-      "value": "true",
+     
+    "WELCOME": {
+      "description": "put 'false' or 'true' to enable & disable WELCOME ",
+      "value": "false",
       "required" :false
     },
-
+     
     "GOODBYE": {
       "description": "put 'false' or 'true' to enable & disable GOODBYE ",
       "value": "false",
       "required" :false
     },
+    "BOT_NAME": {
+      "description": " NAME FOR BOT",
+      "required" :false,    
+      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+    }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/a03584abe46e4813cc352.jpg", 
+      "value": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -41,7 +42,7 @@
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
       "required" :false,    
-      "value": "false"
+      "value": "true"
     }, 
     "WARN_COUNT": {
       "description": " Warn count for users to kick/block when warn limit exceed!",
@@ -59,8 +60,8 @@
       "value": "false"
     }, 
     "HEROKU_API_KEY": {
-      "description": 
-      "value":  "de6a5ea7-3d69-49fd-89bf-52e43a688341",
+      "description": "Put Your Heroku Api Key Here",
+      "value": "",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
@@ -99,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923"
+      "value": "923184474176"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -123,15 +124,15 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "pUBLIC"
+      "value": "private"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "SUBSCRIBE MH MODS OFC",
+      "value": "Suhail Md",
       "required": false 
     },
     "PACK_AUTHER": {
-      "description": "BY CH HASEEB.",
+      "description": "Put Sticker Author_Name.",
       "value": "",
       "required": false 
     }
