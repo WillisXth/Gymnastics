@@ -99,7 +99,7 @@
       "value": "."
     },
     "OWNER_NUMBER": {
-      "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
+      "description": "The phone numbers of the users who you want to be admin for the bot.",
       "value": "923175879795"
     },
     "SESSION_ID": {
@@ -124,7 +124,7 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
@@ -133,7 +133,7 @@
     },
     "PACK_AUTHER": {
       "description": "ᴄʜ ʜᴀꜱᴇᴇʙ",
-      "value": "",
+      "value": "ᴄʜ ʜᴀꜱᴇᴇʙ",
       "required": false 
     }
   }, 
