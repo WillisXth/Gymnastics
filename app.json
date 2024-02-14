@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "ᴄʜ ʜᴀꜱᴇᴇʙ",
       "required" :true
     },   
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "ʙᴏᴛ ʙʏ ᴄʜ ʜᴀꜱᴇᴇʙ"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
+      "value": "https://telegra.ph/file/0cf318c9067160cb911bb.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -61,7 +61,7 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "",
+      "value": "de6a5ea7-3d69-49fd-89bf-52e43a688341",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "923175879795"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -128,11 +128,11 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "ꜱᴜʙꜱᴄʀɪʙᴇ ᴍʜ ᴍᴏᴅꜱ ᴏꜰᴄ 0346 2054847",
       "required": false 
     },
     "PACK_AUTHER": {
-      "description": "Put Sticker Author_Name.",
+      "description": "ᴄʜ ʜᴀꜱᴇᴇʙ",
       "value": "",
       "required": false 
     }
