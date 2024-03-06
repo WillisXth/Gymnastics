@@ -32,7 +32,7 @@
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/0cf318c9067160cb911bb.jpg"
+      "value": "https://telegra.ph/file/885f78c8940e72a966198.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -61,7 +61,7 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "de6a5ea7-3d69-49fd-89bf-52e43a688341",
+      "value": "b9dc51fc-b79e-461b-8785-cd4fc7e6ff05",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot.",
-      "value": "923175879795"
+      "value": "923149090231"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
