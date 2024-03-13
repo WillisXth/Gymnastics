@@ -7,52 +7,15 @@
   "app_url": "/suhail/",
   
   "env": {
-    "OWNER_NAME": {
-      "description": "Name of Bot Owner",    
-      "value": "ᴄʜ ʜᴀꜱᴇᴇʙ",
-      "required" :true
-    },   
-     
-    "WELCOME": {
-      "description": "put 'false' or 'true' to enable & disable WELCOME ",
-      "value": "false",
-      "required" :false
-    },
-     
-    "GOODBYE": {
-      "description": "put 'false' or 'true' to enable & disable GOODBYE ",
-      "value": "false",
-      "required" :false
-    },
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "ʙᴏᴛ ʙʏ ᴄʜ ʜᴀꜱᴇᴇʙ"
-    }, 
-    "IMAGE": {
-      "description": "Image for bot",
-      "required" :false,    
-      "value": "https://telegra.ph/file/885f78c8940e72a966198.jpg"
+      "value": "ʙᴏᴛ ʙʏ ᴄʜ ʜᴀꜱᴇᴇʙ""
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Asia/Karachi"
-    },  
-    "FLUSH": {
-      "description": " Make it 'true' if bot connected but not responed (After deployement!)",
-      "required" :false,    
-      "value": "true"
-    }, 
-    "WARN_COUNT": {
-      "description": " Warn count for users to kick/block when warn limit exceed!",
-      "required" :false,    
-      "value": "3"
-    }, 
-    "READ_COMMAND": {
-      "description": " Read bot cmds",
-      "required" :false,    
-      "value": "false"
+      "value": "Africa/Nairobi"
     }, 
     "AUTO_SAVE_STATUS": {
       "description": " Auto save whatsapp status", 
@@ -61,7 +24,7 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "b9dc51fc-b79e-461b-8785-cd4fc7e6ff05",
+      "value": "2ed67d58-6f6b-4101-8444-98596596ae2b",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
@@ -72,7 +35,7 @@
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required" :false,
-      "value": "unavailable"
+      "value": "composing"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
@@ -97,10 +60,6 @@
     "PREFIX": {
       "description": "Enter your desired prefix for bot.",
       "value": "."
-    },
-    "OWNER_NUMBER": {
-      "description": "The phone numbers of the users who you want to be admin for the bot.",
-      "value": "923149090231"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -128,12 +87,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "ꜱᴜʙꜱᴄʀɪʙᴇ ᴍʜ ᴍᴏᴅꜱ ᴏꜰᴄ 0346 2054847",
+      "value": "〃",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "ᴄʜ ʜᴀꜱᴇᴇʙ",
-      "value": "ᴄʜ ʜᴀꜱᴇᴇʙ",
+      "value": "〃Willis",
       "required": false 
     }
   }, 
