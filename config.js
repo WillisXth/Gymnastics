@@ -64,7 +64,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "©ᴄʜ ʜᴀꜱᴇᴇʙ" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʜ ʜᴀꜱᴇᴇʙ 』```", //*『ꜱᴜʙꜱᴄʀɪʙᴇ • ᴍʜ ᴍᴏᴅꜱ ᴏꜰᴄ』*\n youtube.com/@mhmodsofc"),
+  caption : process.env.CAPTION || "©ωιℓℓιѕ²⁰²⁴" , // ```『 ρσωєяє∂ ву ωιℓℓιѕ кє』```", //*『ωιℓℓιѕ кє』*\n youtube.com/@WillisKE"),
  
   author : process.env.PACK_AUTHER|| "〃Willis",
   packname: process.env.PACK_NAME || "〃",
