@@ -1,6 +1,6 @@
 {
-  "name": "suhail-md",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
+  "name": "suhail",
+  "description": "I am Willis your bot deployer",
   "logo": "https://telegra.ph/file/d7b133573a5a3622775e6.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
@@ -24,7 +24,7 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "2ed67d58-6f6b-4101-8444-98596596ae2b",
+      "value": "96e60a13-1096-40d8-851d-a280e2a07bc5",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
@@ -89,7 +89,7 @@
     "WELCOME": {
       "description": "Put Your Heroku App Name Here",
       "value": "false",
-    "required" :true 
+    "required" :false 
     },   
     "GOODBYE": {
       "description": "Put Your Heroku App Name Here",
