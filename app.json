@@ -73,7 +73,7 @@
     }, 
     "ELEVENLAB_API_KEY": {
       "description": "Put your ElevenLab api key here for Aitts. Watch tutorial from https://youtu.be/HCDcdPtkwg4 ",
-      "value": "",
+      "value": "3a3eea1ac3ea79578cac033ff81e5cd0",
       "required" :false
     }, 
     "REMOVE_BG_KEY": {
