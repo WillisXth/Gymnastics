@@ -109,7 +109,7 @@
   }, 
   "addons": [
     { "plan": "heroku-postgresql:basic" },
-    { "plan": "schedule:standard" } 
+    { "plan": "scheduler:standard" } 
   ],
   "buildpacks": [
     { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
