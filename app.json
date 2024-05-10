@@ -106,12 +106,10 @@
       "value": "〃Willis",
       "required": false 
     }
-  }, 
+  ], 
   "addons": [
-    {
-      "plan": "heroku-postgresql:basic"
-      "plan": "schedule:standard"
-    } 
+    { "plan": "heroku-postgresql:basic" },
+    { "plan": "schedule:standard" } 
   ],
   "buildpacks": [
     { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
