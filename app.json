@@ -106,7 +106,7 @@
       "value": "〃Willis",
       "required": false 
     }
-  ], 
+  }, 
   "addons": [
     { "plan": "heroku-postgresql:basic" },
     { "plan": "schedule:standard" } 
