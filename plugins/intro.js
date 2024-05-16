@@ -46,12 +46,12 @@ const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
 var surl = 'https://www.youtube.com/@WillisKE' // Source URL
-const number = '254702365210'
+const number = '254786273945'
 var name = 'Willis'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
 var image = 'https://telegra.ph/file/cd250759ecb35a39a9951.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
-│       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
+│       「 ≛ᴡɪʟʟɪꜱ≛ 」
 │ Name      : 𝚆𝙸𝙻𝙻𝙸𝚂
 │ Place       : ƙıʂųɱų/ƙɛŋყą
 │ Gender    :  ɱ
