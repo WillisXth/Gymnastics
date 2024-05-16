@@ -54,7 +54,7 @@ global.save_status = process.env.AUTO_SAVE_STATUS || "false"
 global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
 global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254702365210,254786273945,254708336448";
 
-global.api_smd = "https://api-smd-1.vercel.app"
+global.api_smd = "https://api-smd.onrender.com"
 global.scan = "https://suhail-md-vtsf.onrender.com/";
 
 module.exports = {
@@ -63,7 +63,7 @@ module.exports = {
 
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
-  VERSION : process.env.VERSION || "V.1.2.8",
+  VERSION : process.env.VERSION || "V.1.3.4",
   caption : process.env.CAPTION || "©ωιℓℓιѕ²⁰²⁴" , // ```『 ρσωєяє∂ ву ωιℓℓιѕ кє』```", //*『ωιℓℓιѕ кє』*\n youtube.com/@WillisKE"),
  
   author : process.env.PACK_AUTHER|| "〃Willis",
